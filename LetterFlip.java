@@ -40,7 +40,7 @@ public static void main(String [] args)
                                        
                   Character c = str.charAt(charlength); 
                   
-                  // changing upper and lower case
+                  // changing upper and lower case characters
                      if (Character.isLowerCase(c))
                      {
                         c = ( Character.toUpperCase(c)); 
